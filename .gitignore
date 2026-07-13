@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# CPH (Competitive Programming Helper) files
+.cph/
+**/.cph/
+
+# VS Code / editor files
+.vscode/
+tempCodeRunnerFile.py
+**/tempCodeRunnerFile.py
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
